@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones">
+        <item> Registro </item>
+        <item> Login </item>
+        <item> Ver Empleos </item>
+        <item> Agregar Empleo </item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_listaServicios"
+            android:icon="@drawable/icon_services"
+            android:title="Servicios Disponibles" />
+        <item
+            android:id="@+id/nav_serviciosAceptados"
+            android:icon="@drawable/icon_servicios_aceptados"
+            android:title="Servicios aceptados" />
+        <item
+            android:id="@+id/nav_publicService"
+            android:icon="@drawable/icon_publicar"
+            android:title="Publicar Oferta" />
+
+            <item
+                android:id="@+id/nav_sCloseEnfer"
+                android:icon="@drawable/icon_cerrar_sesion"
+                android:title="Salir" />
+
+    </group>
+        </menu>
+

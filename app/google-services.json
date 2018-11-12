@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "901941570389",
+    "firebase_url": "https://chat-e6808.firebaseio.com",
+    "project_id": "chat-e6808",
+    "storage_bucket": "chat-e6808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901941570389:android:b9ca2b061748ad56",
+        "android_client_info": {
+          "package_name": "com.example.omar10ibanez.serviciosenfermeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901941570389-d034qku7rheief50qngjnmf26r89bnb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC75WCqwLbc-xH9nmak2adaSPG7vF03Mx4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\omar1_000\\Google Drive\\H T M L\\A N D R O I D\\ServiciosEnfermeria\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_drawer_user.xml",
+        "source": "C:\\Users\\omar1_000\\Google Drive\\H T M L\\A N D R O I D\\ServiciosEnfermeria\\app\\src\\main\\res\\menu\\navigation_drawer_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar1_000\\Google Drive\\H T M L\\A N D R O I D\\ServiciosEnfermeria\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_navigation_drawer_enfermera_drawer.xml",
+        "source": "C:\\Users\\omar1_000\\Google Drive\\H T M L\\A N D R O I D\\ServiciosEnfermeria\\app\\src\\main\\res\\menu\\activity_navigation_drawer_enfermera_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar1_000\\Google Drive\\H T M L\\A N D R O I D\\ServiciosEnfermeria\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_drawer_enfermera.xml",
+        "source": "C:\\Users\\omar1_000\\Google Drive\\H T M L\\A N D R O I D\\ServiciosEnfermeria\\app\\src\\main\\res\\menu\\navigation_drawer_enfermera.xml"
+    },
+    {
+        "merged": "C:\\Users\\omar1_000\\Google Drive\\H T M L\\A N D R O I D\\ServiciosEnfermeria\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_navigation_drawer_drawer_user.xml",
+        "source": "C:\\Users\\omar1_000\\Google Drive\\H T M L\\A N D R O I D\\ServiciosEnfermeria\\app\\src\\main\\res\\menu\\activity_navigation_drawer_drawer_user.xml"
+    }
+]

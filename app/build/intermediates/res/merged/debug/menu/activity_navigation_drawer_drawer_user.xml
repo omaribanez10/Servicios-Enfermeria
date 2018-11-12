@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <group android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/nav_pubSer"
+            android:icon="@drawable/icon_publicar"
+            android:title="Publicar Servicio" />
+        <item
+            android:id="@+id/nav_verEnf"
+            android:icon="@drawable/icon_ver_nurse"
+            android:title="Ver Enfermeros" />
+        <item
+            android:id="@+id/nav_ofertasEnfer"
+            android:icon="@drawable/icon_ofertas"
+            android:title="Ofertas de Enfermeros" />
+
+        <item
+            android:id="@+id/salirUser"
+            android:icon="@drawable/icon_cerrar_sesion"
+            android:title="Salir" />
+    </group>
+
+
+
+</menu>
+

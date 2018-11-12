@@ -1,0 +1,4 @@
+#Fri May 18 10:44:40 COT 2018
+base.0=C\:\\Users\\omar1_000\\Google Drive\\H T M L\\A N D R O I D\\ServiciosEnfermeria\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
